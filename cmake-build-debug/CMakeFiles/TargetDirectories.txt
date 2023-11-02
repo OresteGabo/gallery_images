@@ -1,0 +1,3 @@
+/home/oreste/Desktop/M1/IHM/gallery_art/cmake-build-debug/CMakeFiles/gallery_art.dir
+/home/oreste/Desktop/M1/IHM/gallery_art/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oreste/Desktop/M1/IHM/gallery_art/cmake-build-debug/CMakeFiles/rebuild_cache.dir
